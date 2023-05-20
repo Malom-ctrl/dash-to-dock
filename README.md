@@ -1,4 +1,4 @@
-# A modified Dash to Dock that brings some new features
+# A fork of Dash to Dock that brings some new features
 see the original here : https://github.com/micheleg/dash-to-dock/
 
 Additional features :
